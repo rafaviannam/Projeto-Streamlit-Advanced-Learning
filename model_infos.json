@@ -1,0 +1,32 @@
+{
+    "target": "Atraso",
+    "x_vars": [
+        "Tipo.Linha",
+        "Origem",
+        "Destino",
+        "taxa_atraso_rota",
+        "taxa_atraso_empresa",
+        "taxa_atraso_hora",
+        "ocupacao_origem",
+        "precipitacao_origem",
+        "umidade_origem",
+        "precipitacao_destino",
+        "umidade_destino",
+        "atraso_voo_anterior",
+        "taxa_atraso_aeroporto",
+        "distancia_km",
+        "hora_partida_prevista",
+        "dia_semana",
+        "mes",
+        "fim_de_semana",
+        "Empresa_ACN",
+        "Empresa_ARG",
+        "Empresa_AZU",
+        "Empresa_CMP",
+        "Empresa_GLO",
+        "Empresa_LAN",
+        "Empresa_OUTRAS",
+        "Empresa_TAM",
+        "Empresa_TAP"
+    ]
+}
