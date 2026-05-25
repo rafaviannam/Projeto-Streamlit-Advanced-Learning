@@ -95,10 +95,8 @@ def carregar_dados(caminho_csv: str = "voos_clima.csv"):
 # ─────────────────────────────────────────────
 
 MODELOS_DISPONIVEIS = [
-    "RandomForestClassifier",
-    "LogisticRegression",
-    "DecisionTreeClassifier",
     "HistGradientBoostingClassifier",
+    "LogisticRegression",
 ]
 
 infos = carregar_infos_modelo()
